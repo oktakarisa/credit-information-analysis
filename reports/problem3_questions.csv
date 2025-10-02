@@ -1,0 +1,11 @@
+id,question_short,priority,selected,status
+1,Income vs default,High,,
+2,Credit amount vs default,High,,
+3,Age vs default,Med,,
+4,Contract type vs default,Med,,
+5,Missingness patterns,High,,
+6,External scores vs default,High,,
+7,Employment & income type,Med,,
+8,Family / housing,Low,,
+9,Occupation / education,Low,,
+10,Credit/Income ratio interaction,High,,

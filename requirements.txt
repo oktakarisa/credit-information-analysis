@@ -1,0 +1,6 @@
+# Core libraries for Credit Information Analysis
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
