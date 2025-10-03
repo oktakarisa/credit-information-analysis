@@ -1,4 +1,4 @@
 # Ignore large raw data files
-data/*.csv
-data/*.zip
-data/*.csv
+#ata/*.csv
+#data/*.zip
+#data/*.csv
